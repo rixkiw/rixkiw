@@ -1,7 +1,7 @@
 👋 Hi, I'm @rixkiw
 - 👀 I'm interested in airdrop
 - 🌱 I'm currently learning node.js,php
-- 📫 How to contact me?rixkiw
+- 📫 How to contact me? t.me/rixkiw
 - ⚡ Fun fact: lfgg!!
 
 <!---
